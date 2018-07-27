@@ -1,0 +1,1 @@
+# redmine_collapsable_sidebar
